@@ -25,10 +25,9 @@ A synthetic dataset is generated using OpenCV to simulate coronary artery struct
 ##  Results
 The model successfully segments circular regions (simulated arteries).
 
-##  How to Run
-1. Open in Google Colab
-2. Run all cells
-3. View output
+## How to Run
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tejaswinikandulapati/Coronary-Artery-Segmentation/blob/main/Coronary_artery_segmentation.ipynb)
 
 ## ⚠️ Note
 This is a prototype project using synthetic data for demonstration purposes.
